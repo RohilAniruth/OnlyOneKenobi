@@ -1,2 +1,2 @@
-# OnlyOneKenobi
-First group project, Games Lab.
+# HomeworkEtcWeek2
+Homework for CLOG
